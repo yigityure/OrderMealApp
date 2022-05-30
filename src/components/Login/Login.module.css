@@ -1,0 +1,14 @@
+.login {
+  width: 90%;
+  max-width: 40rem;
+  margin: 10rem auto;
+  padding: 2rem;
+}
+
+.signup {
+  color: brown;
+}
+
+.signup:hover {
+  cursor: pointer;
+}

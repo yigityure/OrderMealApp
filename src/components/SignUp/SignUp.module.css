@@ -1,0 +1,7 @@
+.signup {
+  width: 90%;
+  max-width: 40rem;
+  padding: 3rem;
+  margin: 10rem auto;
+  display: flex;
+}
